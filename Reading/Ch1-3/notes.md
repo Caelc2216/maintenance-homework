@@ -46,7 +46,7 @@ Questions to ask to mitigate risk
 2. How will we know that we've done them correctly?
 3. How will we know that we haven't broken anything?
 
-In a good system you feel pretty calm after you'be done the initial learning and are confident in the change you are about to make.
+In a good system you feel pretty calm after you've done the initial learning and are confident in the change you are about to make.
 
 If you don't make changes often you get rusty at it.
 
@@ -78,3 +78,6 @@ When we change code, we should have tests in place. To put tests in place, we of
 5. Make changes and refactor
 
 # Chapter 3
+Two reasons to break dependencies
+1. Sensing - We break dependencies to sense when we can't access values our code computes
+2. Separation - We break dependencies to seperate when we can't even get a piece of code into a test harness to run
