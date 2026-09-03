@@ -1,0 +1,5 @@
+- The only way to go fast is to be clean
+- Rigid systems change in unexpected ways and have unexpected behavior. 
+- We should write code so that when we have to go back to read it it should be what we expect it to be
+- Code should be self documenting, you should be able to tell what the code does by reading it
+- rushing always slows you down
